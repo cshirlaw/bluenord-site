@@ -6,7 +6,7 @@ export default function HomePage() {
     <main>
       <HeroBanner
         title="Energy for People, Progress for Society"
-        subtitle="Exploring and producing oil and gas in the Danish North Sea"
+        subtitle="Exploring and producing oil and gas "
       />
       <section className="intro container">
         <p className="text-lg leading-relaxed mb-6">
